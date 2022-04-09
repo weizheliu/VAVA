@@ -29,7 +29,7 @@ Coming soon.
 
 ## How to Use
 
-Coming soon.
+The loss term we proposed is listed in "vava.py", precisely, the function "vava_loss" is the VAVA loss(L_VAVA in Eq.(13) of the paper) and the function "all_loss" is the final loss term(L_all in Eq.(17) of the paper), please carefully adjust the hyperparameters when applied to your own data.
  
 ## Citing
 
@@ -50,7 +50,9 @@ year = {2022}
 
 ``` 
 
+## Note
 
+I already left EPFL and Microsoft, therefore I'm not able to reach my previous code/data. This is a quick implementation based on my memory and I do not even have the machine/data to test it, if you find any bug/typo with this code, please let me know.
 
 ## Contact
 
