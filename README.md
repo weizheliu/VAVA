@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ## VAVA Implementation
 
-Coming soon.
+Please refer to "vava.py"
 
 ## How to Use
 
